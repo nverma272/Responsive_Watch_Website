@@ -17,3 +17,5 @@
 - Cart
 
 ## Screenshots
+
+![App Screenshot](https://github.com/nverma272/Responsive_Watch_Website/blob/main/watchh.png?raw=true)
